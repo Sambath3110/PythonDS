@@ -1,0 +1,5 @@
+n= int(input('Enter the no of elements:'))
+a= int(input('Enter the first element:'))
+d= int(input('Enter the diff:'))
+result= n/2*(2*a+(n-1)*d)
+print(result)
